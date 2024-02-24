@@ -1,0 +1,4 @@
+*.swp
+.env
+.cache
+authenticated-emails.txt
