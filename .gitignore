@@ -1,4 +1,5 @@
 *.swp
 .env
 .cache
+.open-webui
 authenticated-emails.txt
